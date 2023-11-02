@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: Promise
+  m_EditorClassIdentifier: 
+  description: Make Grandiose Promises
+  feelingChange: 1
+  empathyChange: -1
+  Dialogs:
+  - I promise that from now on I'll be a much better partner! I'll take care of everything
+    and you won't have to worry about anything!
+  - You know that isn't realistic. Staying will mean more of the same.
+  - I promise that from now on I'll stop wasting away here at home. I'm going to
+    get out there and make a real difference in our lives.
+  - 'This isn''t the first time you''ve said that, and you always give up in like
+    a week. '
+  - C'mon please stay! I'll buy you lavish jewelry and all the steak you can eat!
+  - Trinkets and baubles won't fill the void in my heart, and quite frnakly neither
+    do you anymore.

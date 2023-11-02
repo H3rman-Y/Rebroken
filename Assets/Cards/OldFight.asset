@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: OldFight
+  m_EditorClassIdentifier: 
+  description: Bring Up Old Fight
+  feelingChange: -1
+  empathyChange: -2
+  Dialogs:
+  - This is just like when you gave me flack over my mother's comments!
+  - You're mother called me a harlot!
+  - Why do you always default to trying to hold my emotions hostage whenever you
+    feel somewhat dissatisfied? You always do this when we fight!
+  - Hold your emotions hostage? I'm just asserting my right to decide my own destiny.
+    If you can't see that you're even less perceptive than I thought you were!
+  - This is so you! Always try and torpedo the relationship whenever we quarrel!
+  - Me torpedo the relationship? You torpedoed the relationship with your brutish
+    ways and your pigheaded handling of my emotions! Case in point!

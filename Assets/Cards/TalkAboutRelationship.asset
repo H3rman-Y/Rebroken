@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: TalkAboutRelationship
+  m_EditorClassIdentifier: 
+  description: Genuinely Talk about your Relationship
+  feelingChange: -1
+  empathyChange: 1
+  Dialogs:
+  - Ever since the day I met you I knew I wanted to spend the rest of forever with
+    you. I know I haven't been the best, but I really enjoy spending time with you.
+  - 'I know, I know. But Rain, we haven''t really even been spending time together.
+    We are just existing in the same space, and I need to go out and have my own
+    adventures again. '
+  - I don't know what I will do with out you, even my mom left me. I understand that
+    I haven't been the best to you, but I really am best for you and I will always
+    be here for you.
+  - You are right, you haven't been the best. I've enjoyed having someone to fill
+    the time with, but all things must come to an end, and I think we have been together
+    for longer than we should have.
+  - I just feel like you are the one thing in my life that was going right. I really
+    love you and I don't want to lose you.
+  - In truth some part of me still loves you too, but that feels more like a vestigial
+    remnant of the love we once had than a burning fire that can carry me through
+    life with you.

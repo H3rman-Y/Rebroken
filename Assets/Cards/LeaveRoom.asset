@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: LeaveRoom
+  m_EditorClassIdentifier: 
+  description: Leave The Room
+  feelingChange: 3
+  empathyChange: 0
+  Dialogs:
+  - I'm outta here!
+  - Wow. real mature!
+  - Byyyyyye!
+  - Don't let the door hit your butt on the way out scrub!
+  - '*twirls finger and turns around to leave*'
+  - Don't turn your back on me! We haven't finished talking!

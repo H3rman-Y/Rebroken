@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: Listen
+  m_EditorClassIdentifier: 
+  description: Listen
+  feelingChange: -3
+  empathyChange: 3
+  Dialogs:
+  - Sorry, go ahead and tell me why you want to break up.
+  - 'I just don''t feel that spark anymore. We used to find so much joy in every
+    moment together, but now it is just day in, day out more of the same. '
+  - What prompted you to want to end it?
+  - It's just a lot of little things. It feels like our life has just been stagnant
+    and we are doing the same thing over and over, like we are caught in a time loop.
+  - '*rests fist on chin* I''m listening. What do you have to say?'
+  - Well (goes on a long diatribe about Rain which Rain perceives only as gibberish)

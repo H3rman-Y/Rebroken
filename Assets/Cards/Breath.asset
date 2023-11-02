@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: Breath
+  m_EditorClassIdentifier: 
+  description: Take a Breath
+  feelingChange: 3
+  empathyChange: 0
+  Dialogs:
+  - '*breathe in* *breathe out* Okay, I''m ready to talk more.'
+  - Thank you for taking the time to center yourself. Let's continue talking.
+  - (Deep breathe, come on Rain we can get through this.)
+  - (He seems to be taking this better than I expected him to. This is good.)
+  - '*inhales and exhales violently*'
+  - It's good to take a breath but I doubt the efficacy of such a violent respiration!

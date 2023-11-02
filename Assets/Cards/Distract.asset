@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: Distract
+  m_EditorClassIdentifier: 
+  description: Distract
+  feelingChange: -2
+  empathyChange: -1
+  Dialogs:
+  - Look, up there, it's superman!
+  - I don't believe you anymore. There may have been a day where I would have, but
+    that day has past.
+  - '*Points* oh my gosh!'
+  - You're not going to fool me!
+  - '*flicks a coin on the ground behind Willow*'
+  - Your meager distraction tactics aren't going to alter my feelings on this matter.

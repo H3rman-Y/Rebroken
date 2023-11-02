@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: AdmitProblems
+  m_EditorClassIdentifier: 
+  description: Admit there were Problems
+  feelingChange: 0
+  empathyChange: 2
+  Dialogs:
+  - I have been really depressed and it makes it hard to be there for you. That isn't
+    fair and I am sorry.
+  - Thank you for saying that Rain.
+  - I've really put too much of my stuff on you to deal with. I'm really sorry about
+    that.
+  - Thank you for saying that Rain.
+  - Yeah, Ill admit things weren't always great.
+  - You're right. At least you have the wisdom to see that!

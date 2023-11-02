@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: Rationalize
+  m_EditorClassIdentifier: 
+  description: Rationalize Past Mistakes
+  feelingChange: 3
+  empathyChange: -3
+  Dialogs:
+  - 'I''m sorry I haven''t always been there for you, but you know I have been really
+    depressed recently. '
+  - I get that, but at some point I need to consider my own needs. I care about you,
+    but I sometimes just don't feel that back.
+  - I'm really sorry I forgot your birthday last week, I've just been so busy with
+    stuff.
+  - Are you serious?!?! Save it! That really hurt my feelings and you are trying
+    to justify it!
+  - I'm sorry I don't attend to your feelings, but you have to understand no one
+    ever taught me how to.
+  - And this burden rests on me? Why am I so lucky?

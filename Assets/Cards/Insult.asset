@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
+  m_Name: Insult
+  m_EditorClassIdentifier: 
+  description: Insult
+  feelingChange: 1
+  empathyChange: -3
+  Dialogs:
+  - You smell like an unwashed swine!
+  - How rude! Do you really expect me to feel appreciated when you talk to me so?
+  - You're a bad person!
+  - Setting boundaries and taking care of myself does not make me a bad person. It
+    makes me human.
+  - You have no idea how to treat a man!
+  - You clearly have no idea how to treat a woman if you would rather hurl insults
+    at me than talk through this civilly.
