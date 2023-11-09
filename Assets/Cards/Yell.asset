@@ -16,9 +16,10 @@ MonoBehaviour:
   feelingChange: 3
   empathyChange: -3
   Dialogs:
-  - AUGGGGGGGHHHH!
-  - Stop it! You're scaring me!
-  - Raaargh!
-  - You're not the Hulk! Stop behaving like a bratty child!
-  - Guraaaugh!
-  - It isn't like you to behave this way! Knock it off!
+  - You wanna break up? Do you even hear youself!?
+  - Stop yelling! You're scaring me!
+  - It's like you don't even care how this affects me!
+  - It's not just about you! Stop behaving like a bratty child!
+  - You're so annoying! I can't believe I have to sit through this with you!
+  - Stop being so mean! It isn't like you to behave this way! Knock it off!
+  description2: '"Express yourself. Make your voice feel heard"'

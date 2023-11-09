@@ -18,8 +18,8 @@ MonoBehaviour:
   Dialogs:
   - All right, that's it, this conversation is over!
   - Is it really? If we don't resolve this now, we'll just have to resolve it later.
-  - Stop being an idiot and talk to me!
-  - Stop being an idiot and talk to me!
-  - '*Begins mimicking Willow''s affectations in a mocking way*'
-  - If you wish to mock me instead of communicate with me to spare your own feelings,
-    I doubt you even understand why I initiated this conversation in the first place.
+  - No! No! No! No!
+  - Please listen! I'm trying my hardest to get through to you.
+  - I- I just can't do this right now, Willow.
+  - Well, I can't just keep waiting to talk about this.
+  description2: '"That''s enough. You just can''t do this anymore."'

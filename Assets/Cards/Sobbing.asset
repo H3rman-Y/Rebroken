@@ -16,10 +16,12 @@ MonoBehaviour:
   feelingChange: -2
   empathyChange: -2
   Dialogs:
-  - I *sob* just *sob* don't *sob* want *sob* to *sob* leave *sob* you.
+  - I *sob* just don't want *sob* you to *sob* leave me.
   - '*sigh* There there...'
-  - '*sob* What *sob* can *sob* I *sob* do *sob* to *sob* change *sob* your *sob*
-    mind?'
+  - '*sob* What can I do *sob* to  change your *sob* mind?'
   - I'm sorry, but there isn't anything.
-  - Auuuuuuhaaaughhaghhh! Waaaaaah!
-  - For goodness' sake pull yourself together man!
+  - '*Rain begins to cry, sobbing with big, heavy breaths*'
+  - I know this is hard, but I need to take a breath if we're going to get through
+    this.
+  description2: '"Your throat is tight and your eyes are watery. Stop holding back.
+    It hurts."'

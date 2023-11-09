@@ -16,12 +16,15 @@ MonoBehaviour:
   feelingChange: -1
   empathyChange: -2
   Dialogs:
-  - This is just like when you gave me flack over my mother's comments!
-  - You're mother called me a harlot!
-  - Why do you always default to trying to hold my emotions hostage whenever you
+  - This is just like when you yelled at me for working late all the time. I can't
+    help it!
+  - Working late? You missed my birthday dinner!
+  - Why do you always default to trying to hold your emotions hostage whenever you
     feel somewhat dissatisfied? You always do this when we fight!
-  - Hold your emotions hostage? I'm just asserting my right to decide my own destiny.
-    If you can't see that you're even less perceptive than I thought you were!
-  - This is so you! Always try and torpedo the relationship whenever we quarrel!
-  - Me torpedo the relationship? You torpedoed the relationship with your brutish
-    ways and your pigheaded handling of my emotions! Case in point!
+  - Hold my emotions hostage? I'm just asserting my right to decide what this relationship
+    is. If you can't see that you're even less perceptive than I thought you were!
+  - This is so you! Always try and torpedo the relationship whenever we have a disagreement!
+  - Me torpedo the relationship? You torpedoed the relationship with your inability
+    to listen to me? How can we have a relationship when I can't even speak openly
+    with you?
+  description2: '"She think shes''s so perfect? It''s your turn to be angry."'

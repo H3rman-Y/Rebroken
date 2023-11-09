@@ -16,9 +16,13 @@ MonoBehaviour:
   feelingChange: -2
   empathyChange: -1
   Dialogs:
-  - B-b-b-b-but y--you can't do this to me!
-  - Calm down for goodness sake man!
+  - Y-you can't do this to me!
+  - Calm down for goodness sake!
   - '*Breathes Quickly and Heavily*'
-  - Just take a deep breath. You help nothing when you lose your cool.
-  - '*Throws head back in defeat*'
-  - You and me both man, you and me both.
+  - I know this is stressful but-- please-- I need you to actually hear what I'm
+    saying.
+  - (Oh my god. What's wrong with me. I can't stop yelling at her. I"m so fucking
+    scared I think I'm gonna vomit.)
+  - Rain? ...Are you listening?
+  description2: '"Your body can''t take this anymore. Protect yourself by not letting
+    her through."'

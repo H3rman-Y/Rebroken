@@ -7,7 +7,7 @@ public class TextGCU : MonoBehaviour
     //打字的时间间隔
     public float TimeInterval = 0.3f;
     private string words;//保存需要显示的文字
-    private bool isActive = false;
+    public bool isActive = false;
     private float timer;//时间计时
     private Text myText;
     private int currentPos = 0;//当前打字位置
@@ -58,7 +58,7 @@ public class TextGCU : MonoBehaviour
     /// <summary>
     /// 结束打字，初始化数据
     /// </summary>
-    void OnFinish()
+    public void OnFinish()
     {
         isActive = false;
         timer = 0;

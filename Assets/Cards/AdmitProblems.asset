@@ -16,11 +16,13 @@ MonoBehaviour:
   feelingChange: 0
   empathyChange: 2
   Dialogs:
-  - I have been really depressed and it makes it hard to be there for you. That isn't
-    fair and I am sorry.
-  - Thank you for saying that Rain.
-  - I've really put too much of my stuff on you to deal with. I'm really sorry about
-    that.
-  - Thank you for saying that Rain.
-  - Yeah, Ill admit things weren't always great.
-  - You're right. At least you have the wisdom to see that!
+  - I have been really depressed and awful to you. It makes it hard to be there for
+    you. That isn't fair and I am sorry.
+  - Thank you for saying that, Rain. It made things really lonely for a while.
+  - Maybe we aren't compatible. I feel like it can be so hard for us to get through
+    to eachother. I don't think it's supposed to be this hard.
+  - 'It wasn''t... at first. I wish I knew how this happened. '
+  - Yeah, I'll admit things weren't always great. You're right about me and there's
+    a lot of things you do that hurt me too.
+  - I know. I'm not perfect but neither of us deserve to be in pain.
+  description2: '"You know the truth."'

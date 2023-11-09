@@ -22,28 +22,24 @@ public class GameLogic : MonoBehaviour
 
     public Transform CardParent;
 
-    public Button StartBtn;
+   
     public GameObject EndPanel;
     public Button ReStartBtn;
-
+    
     private void Awake()
     {
         cardDatasProxy = new List<CardData>();
         EndPanel.SetActive(false);
-        StartBtn.gameObject.SetActive(true);
         UpdateUI();
         DataInit();
         //回合开始
         ResetNewScene();
-        StartBtn.onClick.AddListener(()=> {
-            ResetNewScene();
-        });
         ReStartBtn.onClick.AddListener(()=> {
             SceneManager.LoadScene(0);
         });
     }
 
-
+    public List<Vector3> vector3s;
 
     public void ResetNewScene() {
         if (CardParent.childCount>0) return;
@@ -52,6 +48,8 @@ public class GameLogic : MonoBehaviour
         {
             GameObject card = GameObject.Instantiate(CardPrefab, CardParent);
             card.GetComponent<CardDataInit>().gameLogic = this;
+            card.GetComponent<CardDataInit>().MarkPoss = vector3s[i];
+            card.GetComponent<CardDataInit>().MarkName = "MarkPos" + i.ToString() ;
             card.GetComponent<CardDataInit>().Init(cardDatasProxy[0]);
             cardDatasProxy.RemoveAt(0);
         }
@@ -104,7 +102,6 @@ public class GameLogic : MonoBehaviour
         if (cardDatasProxy.Count <= 0) {
             // "EnDPanel";
             EndPanel.SetActive(true);
-            StartBtn.gameObject.SetActive(false);
         }
     }
 

@@ -16,11 +16,12 @@ MonoBehaviour:
   feelingChange: 1
   empathyChange: -3
   Dialogs:
-  - I like the color of your shoes!
-  - Flattery will get you nowhere. Your vapid compliments fall flat in the face of
-    your deep and impactful failings.
+  - Can we just do this later? We need to figure out dinner.
+  - 'Dinner? That''s not important right now! '
   - Lovely weather we're having.
   - Shitty conversation we're having. Stay on topic!
-  - You know what, we should get a pizza!
-  - For our breakup conversation? Why? I doubt pizza will fix the rift in this relationship
-    and I hardly feel like eating.
+  - You know what, I bet you feel this way because I've been working so much. I'll
+    promise to start coming home earlier.
+  - That's not what this is about! It's not about your job.. . it's about us... it's
+    about you...
+  description2: '"Buy some time. Make her talk about something else."'

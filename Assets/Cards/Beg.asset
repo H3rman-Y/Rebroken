@@ -16,10 +16,10 @@ MonoBehaviour:
   feelingChange: -1
   empathyChange: -1
   Dialogs:
-  - P-P-Please don't leave me!
-  - .......You're begging me to stay? Really?
-  - But you gotta stay! You gotta!
-  - I am an independent person and I don't have to do anything I don't want to.
-  - Come on! Please, stay, pleeeease!
-  - I'm sorry, but I just don't see a way forward and you aren't going to convince
-    me with your pleases, no matter how ardent they may be.
+  - ...Please don't leave me, Willow. I don't wanna do this.
+  - I don't wanna do this either. But I think we have to.
+  - 'I promise if you stay we can fix things. '
+  - This is me fixing things.
+  - Come on, Willow. You're really going to abandon me?
+  - I-I'm sorry. I just can't be in this house anymore.
+  description2: '"Don''t let her leave you. You can''t do this alone."'

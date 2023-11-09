@@ -16,12 +16,15 @@ MonoBehaviour:
   feelingChange: 1
   empathyChange: 1
   Dialogs:
-  - I really love you Willow and I want to be better for you.
-  - I love you too, but we both know that things won't change if I stay.
-  - 'You are my rock Willow. I really rely on you, and I don''t want to lose you. '
-  - I can't rely on you Rain. I really love you, but I can't always be there for
-    you. We both deserve to be in a relationship where we are both happy.
-  - You are beautiful, kind, funny, and what im trying to say is ..... special. I
-    don't want to lose you.
-  - I appreciate your words, but I don't feel such stirrings in my heart about you
-    anymore.
+  - I really love you, Willow, and I want to be better for you.
+  - 'I love you too, but you should try to be better for your own sake. '
+  - Thank you for being so honest with me. You're such a good person, even when I'm
+    acting awfully.
+  - I don't like being yelled at, but I know you're just scared. You've shown me
+    a lot of kindness in our lives. I appreciate you saying that to me.
+  - Even if I' mstarting to agree with you, I'm so scared of what this means. What
+    if I don't know how to be on my own again? What if I spend the rest of my life
+    regretting this?
+  - I'm worried too. I don't even know where I'm gonna go when I move out. But aren't
+    you even a little bit excited to think about who we could be?
+  description2: '"Be honest with her. You know it''s safe here."'

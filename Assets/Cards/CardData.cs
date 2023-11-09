@@ -10,5 +10,6 @@ namespace Cards
         public int feelingChange = 0;
         public int empathyChange = 0;
         public List<string> Dialogs=new List<string>();
+        public string description2 = "null";
     }
 }

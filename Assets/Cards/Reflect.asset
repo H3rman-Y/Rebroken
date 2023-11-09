@@ -17,9 +17,10 @@ MonoBehaviour:
   empathyChange: 2
   Dialogs:
   - (Oh god, I really haven't been a good partner.)
-  - (I hope his silence is an indication he's taking this well.)
+  - (I hope their silence is an indication they're taking this well.)
   - (I would probably break up with me too.)
-  - (I don't think there's anything he can really say to make this better at this
-    point.)
-  - (Man this relationship isn't going well)
-  - Hello? Helllllooo! Talk to me!
+  - (Fuck. This is harder than I thought it was.)
+  - (Maybe she's right. Look at us, this isn't how being in love is supposed to be.)
+  - Rain? ...Are you listening?
+  description2: '"What have these past few eyars been like? Was it what you thought
+    it was?"'

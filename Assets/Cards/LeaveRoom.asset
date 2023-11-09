@@ -16,9 +16,10 @@ MonoBehaviour:
   feelingChange: 3
   empathyChange: 0
   Dialogs:
-  - I'm outta here!
-  - Wow. real mature!
-  - Byyyyyye!
-  - Don't let the door hit your butt on the way out scrub!
-  - '*twirls finger and turns around to leave*'
+  - That's it! I can't do this anymore!
+  - At least listen to me! Come on!
+  - If you want me gone so much I'll leave!
+  - I don't just want you gone, we need to talk.
+  - '*Exits the room*'
   - Don't turn your back on me! We haven't finished talking!
+  description2: '"Turn your back on this. It''s done."'

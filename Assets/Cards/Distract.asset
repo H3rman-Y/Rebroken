@@ -16,10 +16,10 @@ MonoBehaviour:
   feelingChange: -2
   empathyChange: -1
   Dialogs:
-  - Look, up there, it's superman!
-  - I don't believe you anymore. There may have been a day where I would have, but
-    that day has past.
-  - '*Points* oh my gosh!'
-  - You're not going to fool me!
-  - '*flicks a coin on the ground behind Willow*'
-  - Your meager distraction tactics aren't going to alter my feelings on this matter.
+  - Don't you have any work to do tonight?
+  - 'Not right now. I''d rather talk about this. '
+  - '*Points* oh my gosh! What''s over there!?'
+  - Oh my god, stop trying to change the subject!
+  - Maybe you're just hungry. Come on, let's go eat.
+  - Having dinner isn't going to alter my feelings on this matter.
+  description2: '"Make her talk about something else. Anything else."'

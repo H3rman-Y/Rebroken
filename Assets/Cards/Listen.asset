@@ -16,11 +16,16 @@ MonoBehaviour:
   feelingChange: -3
   empathyChange: 3
   Dialogs:
-  - Sorry, go ahead and tell me why you want to break up.
-  - 'I just don''t feel that spark anymore. We used to find so much joy in every
-    moment together, but now it is just day in, day out more of the same. '
-  - What prompted you to want to end it?
+  - I'm sorry. You deserve to be listened to. Go ahead and tell me what you're feeling.
+  - I just don't feel that spark anymore. We used to find so much joy in every moment
+    together, but now it is just... It feels like we're trying to put up with eachother.
+    It's not natural anymore.
+  - When did you know you wanted to do this?
   - It's just a lot of little things. It feels like our life has just been stagnant
     and we are doing the same thing over and over, like we are caught in a time loop.
-  - '*rests fist on chin* I''m listening. What do you have to say?'
-  - Well (goes on a long diatribe about Rain which Rain perceives only as gibberish)
+  - I'm sorry, I haven't let you say what you need to say. Please *gestures for Willow
+    to speak*
+  - Well... It feels like being together is only making things worse. I never used
+    to be so lethargic all the time, and you never used to lash out at me like this.
+    Don't you ever feel like we're just pulling eachother into a downwards spiral?
+  description2: '"She''s trying to talk to you. Let her in."'
