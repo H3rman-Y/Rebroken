@@ -8,6 +8,7 @@ public class DialogManager : MonoBehaviour
     public List<string> DialogStr;
     private int index;
     public TextGCU textGCU;
+    public Font myFont;
     public void Awake()
     {
         DialogStr = new List<string>();
@@ -59,6 +60,8 @@ public class DialogManager : MonoBehaviour
         }
         this.transform.GetChild(1).gameObject.SetActive(true);
         this.transform.GetChild(0).gameObject.SetActive(false);
+        //
+        this.transform.GetChild(0).GetComponent<Text>().font = myFont;
         this.transform.GetChild(0).GetComponent<Text>().text = "";
         this.transform.GetChild(0).GetComponent<Text>().text = (DialogStr[index]);
         this.transform.GetChild(0).gameObject.SetActive(true);

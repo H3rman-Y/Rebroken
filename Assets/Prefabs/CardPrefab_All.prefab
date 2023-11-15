@@ -175,6 +175,7 @@ MonoBehaviour:
   descriptionText: {fileID: 7135709195155470840}
   descriptionText2: {fileID: 4101894254981690300}
   MarkPoss: {x: 0, y: 0, z: 0}
+  myFont: {fileID: 12800000, guid: 9768c8246b4be8d49a86e0ce0fad99bb, type: 3}
   m_isPrecision: 0
   MarkName: 
   MarkPos: {fileID: 0}
@@ -367,7 +368,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -377,7 +378,7 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 2
   m_Text: Description
 --- !u!1 &1728298716803885439
 GameObject:
@@ -447,17 +448,17 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 2
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 2
   m_Text: New Text
 --- !u!1 &2726160571368851466
 GameObject:
