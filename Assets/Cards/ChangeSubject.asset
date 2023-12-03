@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a006527851536224bb34270f2a929058, type: 3}
   m_Name: ChangeSubject
   m_EditorClassIdentifier: 
-  description: ' Change Subject '
+  description: 'Change Subject '
   feelingChange: 1
   empathyChange: -3
   Dialogs:
