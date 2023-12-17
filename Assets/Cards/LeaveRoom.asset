@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: LeaveRoom
   m_EditorClassIdentifier: 
   description: Leave The Room
-  feelingChange: 3
-  empathyChange: 0
+  feelingChange: -1
+  empathyChange: -1
   Dialogs:
   - That's it! I can't do this anymore!
   - At least listen to me! Come on!

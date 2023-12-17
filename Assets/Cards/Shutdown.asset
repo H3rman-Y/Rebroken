@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Shutdown
   m_EditorClassIdentifier: 
   description: Shut down
-  feelingChange: -2
+  feelingChange: -1
   empathyChange: -1
   Dialogs:
   - Y-you can't do this to me!

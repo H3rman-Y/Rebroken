@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   description: Admit there were Problems
   feelingChange: 0
-  empathyChange: 2
+  empathyChange: 3
   Dialogs:
   - I have been really depressed and awful to you. It makes it hard to be there for
     you. That isn't fair and I am sorry.

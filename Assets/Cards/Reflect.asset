@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Reflect
   m_EditorClassIdentifier: 
   description: Reflect on your Relationship
-  feelingChange: -2
-  empathyChange: 2
+  feelingChange: 3
+  empathyChange: 0
   Dialogs:
   - (Oh god, I really haven't been a good partner.)
   - (I hope their silence is an indication they're taking this well.)

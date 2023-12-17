@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Distract
   m_EditorClassIdentifier: 
   description: Distract
-  feelingChange: -2
+  feelingChange: -1
   empathyChange: -1
   Dialogs:
   - Don't you have any work to do tonight?

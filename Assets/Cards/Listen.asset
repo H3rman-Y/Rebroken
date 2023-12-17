@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Listen
   m_EditorClassIdentifier: 
   description: Listen
-  feelingChange: -3
+  feelingChange: 0
   empathyChange: 3
   Dialogs:
   - I'm sorry. You deserve to be listened to. Go ahead and tell me what you're feeling.

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: ChangeSubject
   m_EditorClassIdentifier: 
   description: 'Change Subject '
-  feelingChange: 1
-  empathyChange: -3
+  feelingChange: -1
+  empathyChange: -1
   Dialogs:
   - Can we just do this later? We need to figure out dinner.
   - 'Dinner? That''s not important right now! '

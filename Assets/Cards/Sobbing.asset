@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Sobbing
   m_EditorClassIdentifier: 
   description: Start Sobbing
-  feelingChange: -2
-  empathyChange: -2
+  feelingChange: -1
+  empathyChange: -1
   Dialogs:
   - I *sob* just don't want *sob* you to *sob* leave me.
   - '*sigh* There there...'

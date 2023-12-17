@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Insult
   m_EditorClassIdentifier: 
   description: Insult
-  feelingChange: 1
-  empathyChange: -3
+  feelingChange: -1
+  empathyChange: -1
   Dialogs:
   - You smell like an unwashed swine!
   - How rude! Do you really expect me to feel appreciated when you talk to me so?

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   description: Bring Up Old Fight
   feelingChange: -1
-  empathyChange: -2
+  empathyChange: 0
   Dialogs:
   - This is just like when you yelled at me for working late all the time. I can't
     help it!

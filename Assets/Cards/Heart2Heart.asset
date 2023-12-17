@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Heart2Heart
   m_EditorClassIdentifier: 
   description: Heart to Heart
-  feelingChange: 1
-  empathyChange: 1
+  feelingChange: 3
+  empathyChange: 3
   Dialogs:
   - I really love you, Willow, and I want to be better for you.
   - 'I love you too, but you should try to be better for your own sake. '

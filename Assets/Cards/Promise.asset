@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Promise
   m_EditorClassIdentifier: 
   description: Make Grandiose Promises
-  feelingChange: 1
+  feelingChange: -1
   empathyChange: -1
   Dialogs:
   - I promise that from now on I'll be a much better partner! I'll take care of everything

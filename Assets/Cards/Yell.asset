@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Yell
   m_EditorClassIdentifier: 
   description: Yell
-  feelingChange: 3
-  empathyChange: -3
+  feelingChange: -1
+  empathyChange: -1
   Dialogs:
   - You wanna break up? Do you even hear youself!?
   - Stop yelling! You're scaring me!

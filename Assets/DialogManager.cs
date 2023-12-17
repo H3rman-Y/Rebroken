@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class DialogManager : MonoBehaviour
@@ -9,6 +10,7 @@ public class DialogManager : MonoBehaviour
     private int index;
     public TextGCU textGCU;
     public Font myFont;
+    public UnityEvent unityEvent;
     public void Awake()
     {
         DialogStr = new List<string>();
@@ -70,6 +72,7 @@ public class DialogManager : MonoBehaviour
     public GameLogic gameLogic;
     public void OnDisable()
     {
+        unityEvent.Invoke();
         gameLogic.ResetNewScene();
     }
 }

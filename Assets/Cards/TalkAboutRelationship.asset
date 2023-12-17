@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: TalkAboutRelationship
   m_EditorClassIdentifier: 
   description: Genuinely Talk about Relationship
-  feelingChange: -1
+  feelingChange: 3
   empathyChange: 1
   Dialogs:
   - Ever since the day I met you I knew I wanted to spend the rest of forever with

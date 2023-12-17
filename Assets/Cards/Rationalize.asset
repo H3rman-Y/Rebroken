@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Rationalize
   m_EditorClassIdentifier: 
   description: Rationalize Past Mistakes
-  feelingChange: 3
-  empathyChange: -3
+  feelingChange: -1
+  empathyChange: -1
   Dialogs:
   - 'I''m sorry I haven''t always been there for you, but you know I have been really
     depressed recently. '

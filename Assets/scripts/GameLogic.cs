@@ -24,6 +24,11 @@ public class GameLogic : MonoBehaviour
 
 
     public GameObject EndPanel;
+    public GameObject EndPanel1;
+    public GameObject EndPanel2;
+    public GameObject EndPanel3;
+    public GameObject EndPanel4;
+    public GameObject EndPanel5;
     public Button ReStartBtn;
     public Button Start;
 
@@ -32,21 +37,29 @@ public class GameLogic : MonoBehaviour
 
     private void Awake()
     {
-
+        HuiHeShu = 0;
         // 获取场景中的AudioSource组件
         bgmAudioSource = GameObject.Find("AudioManager").GetComponent<AudioSource>();
         cardDatasProxy = new List<CardData>();
         EndPanel.SetActive(false);
+        EndPanel1.SetActive(false);
+        EndPanel2.SetActive(false);
+        EndPanel3.SetActive(false);
+        EndPanel4.SetActive(false);
+        EndPanel5.SetActive(false);
         UpdateUI();
         DataInit();
         //回合开始
         PlayBackgroundMusic();
         ResetNewScene();
         ReStartBtn.onClick.AddListener(() => {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(1);
         });
     }
-
+    public void ReStartAgin()
+    {
+        SceneManager.LoadScene(1);
+    }
 
     // 在需要的地方调用此方法开始播放背景音乐
     public void PlayBackgroundMusic()
@@ -117,20 +130,47 @@ public class GameLogic : MonoBehaviour
         empathy += amount;
         UpdateUI();
     }
-
+    public int HuiHeShu;
     void CheckGameOver()
     {
-        if (feeling >= 10 || feeling <= 0 || empathy >= 10 || empathy <= 0)
+        StopBackgroundMusic();
+        Debug.Log("Game Over");
+        if (feeling >= 10)
         {
-            StopBackgroundMusic();
-            Debug.Log("Game Over");
-            EndPanel.SetActive(true);
+            EndPanel1.SetActive(true);
         }
+        else if ( feeling <= 0 )
+        {
+            EndPanel2.SetActive(true);
+
+        }
+        else if ( empathy >= 10 )
+        {
+            EndPanel3.SetActive(true);
+        }
+        else if ( empathy <= 0)
+        {
+            EndPanel4.SetActive(true);
+        }
+        else
+        {
+            if (HuiHeShu==5)
+            {
+                EndPanel5.SetActive(true);
+            }
+          
+        }
+        HuiHeShu++;
     }
     public void ApplyEffects(CardData cardData)
     {
-        IncreaseFeeling(cardData.feelingChange);
-        IncreaseEmpathy(cardData.empathyChange);
+        cardDataInvoke = cardData;
+    }
+    private CardData cardDataInvoke;
+    //对话结束后调用
+    public void CheckInvoke() {
+        IncreaseFeeling(cardDataInvoke.feelingChange);
+        IncreaseEmpathy(cardDataInvoke.empathyChange);
         CheckGameOver();
         if (cardDatasProxy.Count <= 0)
         {
@@ -138,6 +178,7 @@ public class GameLogic : MonoBehaviour
             EndPanel.SetActive(true);
         }
     }
+
 
     public List<T> Outoforder<T>(List<T> bag)
     {
